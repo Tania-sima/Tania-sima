@@ -1,1 +1,1 @@
-![My Banner](git-cover.png) 
+![My Banner](git_cover.png) 
